@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
+org.eclipse.jdt.core.compiler.compliance=21
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=21
+org.eclipse.jdt.core.userLibrary.spring=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-expression-5.3.36.jar"/>\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-context-5.3.36.jar"/>\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-core-5.3.36.jar"/>\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-aop-5.3.36.jar"/>\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-jcl-5.3.36.jar"/>\n\t<archive path\="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-beans-5.3.36.jar"/>\n</userlibrary>\n

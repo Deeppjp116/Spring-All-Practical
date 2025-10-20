@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/beans 
+          http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Engine bean -->
+    <bean id="engine" class="pk1.Engine">
+        <property name="type" value="Diesel Engine"/>
+    </bean>
+
+    <!-- Car bean with dependency injection -->
+    <bean id="car" class="pk1.Car">
+        <property name="engine" ref="engine"/>
+    </bean>
+
+</beans>

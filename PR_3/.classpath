@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringLibs"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/spring-libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/spring-libs/spring-aop-5.3.34.jar"/>
+	<classpathentry kind="lib" path="D:/spring-libs/spring-beans-5.3.34.jar"/>
+	<classpathentry kind="lib" path="D:/spring-libs/spring-context-5.3.34.jar"/>
+	<classpathentry kind="lib" path="D:/spring-libs/spring-core-5.3.34.jar"/>
+	<classpathentry kind="lib" path="D:/spring-libs/spring-expression-5.3.34.jar"/>
+	<classpathentry kind="lib" path="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-expression-5.3.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-context-5.3.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-core-5.3.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-jcl-5.3.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/eclipse-libs/spring/spring-beans-5.3.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

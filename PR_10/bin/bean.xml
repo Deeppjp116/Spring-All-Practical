@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/beans 
+          http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Processor bean with constructor injection -->
+    <bean id="processor" class="pk1.Processor">
+        <constructor-arg value="Intel i9 285HX"/>
+    </bean>
+
+    <!-- Computer bean with constructor-based dependency injection -->
+    <bean id="computer" class="pk1.Computer">
+        <constructor-arg ref="processor"/>
+    </bean>
+
+</beans>
