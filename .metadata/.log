@@ -87,3 +87,19 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 	 at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
 	 at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
 	 at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2025-10-20 13:09:54.563 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-20 13:10:14.860
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-10-20 13:10:16.097
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (273) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-20 13:10:24.382
+!MESSAGE Logback config file: /media/deep/D18/Ganpat Docs/sem3/spring/SPRING_P_A_Z/SPRING_P_A/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
